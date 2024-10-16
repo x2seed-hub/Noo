@@ -1,5 +1,5 @@
 _G.Color = Color3.fromRGB(0, 255, 0)
-_G.Logo = 16663324629
+_G.Logo = 131550397178580
 do  
 	local ui = game:GetService("CoreGui"):FindFirstChild("UILibrary") 
 	 if ui then 
@@ -3995,7 +3995,7 @@ Tween = function(target,statement,disableIslandSkip,fromRaid,CallingFrom)
     stoptp = function()
         tweenid = -1
     end
-local Win = library:Evil("Attack Hub | ","",_G.Logo )
+local Win = library:Evil("Shark X Hub | ","",_G.Logo )
 local Tab = Win:CraftTab('General')
 local Main = Tab:CraftPage('Main',1)
 Main:Toggle("Auto Farm [ Level ]\nออโต้ฟาร์มเลเวล", false, function(value)
